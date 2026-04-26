@@ -3,6 +3,9 @@
 ## High-Level Overview
 The Cognitive Interface is effectively a **CO-PROCESSOR** architecture designed to establish a functional framework for externalizing cognitive processes. The project creates a direct transition from internal cognitive functions—and their respective deficits, like "ADHD Leak"—into an externalized technological infrastructure. By spatializing sequential data, simulating patterns, and persisting state, the system minimizes Mental RAM overhead and optimizes "Cognitive IOPS".
 
+## Documentation
+For a detailed breakdown of the architecture, mechanisms, and functional alignment, see the [Cognitive Layered Stack Guide](./GUIDE.md).
+
 ## The Technology Stack
 
 ### 1. The Surface (Interface)
