@@ -86,6 +86,8 @@ The Cognitive Interface operates as a continuous lifecycle, moving data through 
 *   **High-Fidelity Execution:** Translating high-level architectural simulations into deterministic, asynchronous agent actions.
 *   **State Persistence:** Eliminating "Mental RAM" overhead and the ADHD Leak by offloading context to high-performance local storage.
 
+![The Cognitive Co-Processor Framework](./images/thecognitiveco-processorframework.png)
+
 ---
 
 Copyright © 2026 Voxel & The Positronic Filaments Project.  
