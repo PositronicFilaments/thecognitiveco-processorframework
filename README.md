@@ -24,7 +24,6 @@ For a detailed breakdown of the architecture, mechanisms, and functional alignme
 The Surface is your optical interface and the "mission control for parallel agent tasks".
 
 *   **Concept:** Because sequential string processing (like reading syntax) is identified as a cognitive deficit, the Surface utilizes Spatial Mapping to convert text into "visual furniture". This bypasses linear syntax failures by providing a spatial anchor for monitoring agent states.
-*   **TARS Social Modulation Module:** Isolated entirely within the Surface layer, this module acts as the ultimate I/O filter for tone, completely decoupled from the underlying processing engine. Inspired by the robot TARS, it allows you to dynamically toggle social friction settings—such as dropping Humor from 75% to 60% or setting Honesty to 95%—directly in your mission control.
 *   **Tooling:** VSCode, Google Antigravity.
 
 ### 2. The Engine (Harness)
