@@ -1,5 +1,7 @@
 # The Cognitive Interface: A Co-Processor Architecture
 
+<img src="./images/thecognitiveco-processorframework.png" width="400" alt="The Cognitive Co-Processor Framework">
+
 ## High-Level Overview
 The Cognitive Interface is effectively a **CO-PROCESSOR** architecture designed to establish a functional framework for externalizing cognitive processes. The project creates a direct transition from internal cognitive functions—and their respective deficits, like "ADHD Leak"—into an externalized technological infrastructure. By spatializing sequential data, simulating patterns, and persisting state, the system minimizes Mental RAM overhead and optimizes "Cognitive IOPS".
 
