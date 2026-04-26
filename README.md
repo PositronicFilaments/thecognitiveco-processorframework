@@ -47,4 +47,7 @@ graph TD
 
 ![Studio Concept Mindmap](./mindmap.png)
 
-\n---\n\nCopyright © 2026 Voxel & The Positronic Filaments Project.  \nLicensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+---
+
+Copyright © 2026 Voxel & The Positronic Filaments Project.  
+Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
