@@ -48,7 +48,7 @@ graph TD
 
 ## Studio Concept Mindmap
 
-![Studio Concept Mindmap](./mindmap.png)
+![Studio Concept Mindmap](./images/mindmap.png)
 
 ---
 
