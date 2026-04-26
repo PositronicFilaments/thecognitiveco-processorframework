@@ -1,3 +1,11 @@
+<!--
+Metadata:
+Project: The Cognitive Co-Processor Framework
+Description: An architecture designed to externalize cognitive processes, mitigating ADHD-related memory leaks and sequential processing deficits through spatial mapping and state persistence.
+Layers: The Surface (Interface), The Engine (Execution), The Soil (Context/Memory)
+Keywords: Cognitive Co-Processor, ADHD Leak, Spatial Mapping, Cognitive IOPS, Mental RAM, TARS Modulation, Agent Orchestration, VSCode, Google Antigravity, Claude Code, Gemini CLI, OpenViking, DuckDB
+-->
+
 # The Cognitive Interface: A Co-Processor Architecture
 
 <p align="center">

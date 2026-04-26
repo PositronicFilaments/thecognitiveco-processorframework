@@ -1,3 +1,11 @@
+<!--
+Metadata:
+Document: The Cognitive Layered Stack Guide
+Project: The Cognitive Co-Processor Framework
+Focus: Technical specification of the Surface, Engine, and Soil infrastructure layers.
+Key Concepts: Neuro-Strategy to System Architecture transition, I/O Driver remediation, Syntax Deficit Remediation, High-Fidelity Execution, State Persistence.
+-->
+
 # The Cognitive Layered Stack: A Guide to the Surface, Engine, and Soil
 
 ## 1. Introduction to the Cognitive Interface Architecture
