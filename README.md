@@ -45,23 +45,5 @@ graph TD
 
 ## Studio Concept Mindmap
 
-```text
-Cognitive Component Model
-├── 1. The Surface (Interface)
-│   ├── Core Strategy: Spatial Mapping & Visual Furniture
-│   ├── Target Deficit: Sequential Data Processing
-│   ├── Custom Module: TARS Social Modulation (Humor 60% / Honesty 95%)
-│   └── Tooling: VSCode, Google Antigravity
-│
-├── 2. The Engine (Harness)
-│   ├── Core Strategy: Logic Core Simulation & Execution Loop
-│   ├── Advanced Features: 3D Pressure Mapping
-│   ├── Function: Tool orchestration & secure sandboxing
-│   └── Tooling: Claude Code, Gemini CLI, Ollama
-│
-└── 3. The Soil (Context)
-    ├── Core Strategy: Persistent State & Metadata Storage
-    ├── Target Deficit: Working Memory & "ADHD Leak"
-    ├── Function: Optimizing Cognitive IOPS / Mental RAM
-    └── Tooling: OpenViking, DuckDB
-```
+![Studio Concept Mindmap](./mindmap.png)
+
