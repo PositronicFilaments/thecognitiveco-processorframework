@@ -1,0 +1,9 @@
+# Gemini CLI
+.gemini/
+*.skill
+
+# Skill Source
+skills/
+
+# OS files
+.DS_Store
