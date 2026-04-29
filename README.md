@@ -18,6 +18,8 @@ The Cognitive Interface is effectively a **CO-PROCESSOR** architecture designed 
 ## Documentation
 For a detailed breakdown of the architecture, mechanisms, and functional alignment, see the [Cognitive Layered Stack Guide](./GUIDE.md).
 
+For the implementation details of the interface-layer social modulation, see the [TARS Social Modulation Module Report](./TARS.md).
+
 ## The Technology Stack
 
 ### 1. The Surface (Interface)
