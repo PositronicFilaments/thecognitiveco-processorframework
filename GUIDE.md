@@ -8,6 +8,10 @@ Key Concepts: Neuro-Strategy to System Architecture transition, I/O Driver remed
 
 # The Cognitive Layered Stack: A Guide to the Surface, Engine, and Soil
 
+<p align="center">
+  <img src="./images/cognitive-architechture.png" width="600" alt="Cognitive Architecture">
+</p>
+
 ## 1. Introduction to the Cognitive Interface Architecture
 
 This technical specification defines the deployment of a **Cognitive Interface**—a high-bandwidth co-processor architecture designed to externalize and augment human cognitive functions. The architecture facilitates a transition from **Neuro-Strategy** (addressing internal cognitive deficits) to **System Architecture** (hardware-software parity through three infrastructure layers).
@@ -44,10 +48,6 @@ The Engine translates the Logic Core’s architectural simulations, pattern reco
 
 ### Operational Logic
 The Engine employs **Pressure Mapping**, utilizing high-fidelity 3D maps for historical and architectural analysis. This strategy allows the Logic Core to analyze data *outside* of a linear sequence, bypassing the limitations of time-bound cognitive processing. Agentic loops then execute these non-linear patterns within a deterministic framework.
-
-<p align="center">
-  <img src="./images/cognitive-architechture.png" width="600" alt="Cognitive Architecture">
-</p>
 
 ### Tooling
 | Tool | Role in the Execution Loop |
