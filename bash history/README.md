@@ -9,7 +9,7 @@ Keywords: Cognitive Co-Processor, ADHD Leak, Spatial Mapping, Cognitive IOPS, Me
 # The Cognitive Interface: A Co-Processor Architecture
 
 <p align="center">
-  <img src="./images/thecognitiveco-processorframework.png" width="600" alt="The Cognitive Co-Processor Framework">
+  <img src="../images/thecognitiveco-processorframework.png" width="600" alt="The Cognitive Co-Processor Framework">
 </p>
 
 ## High-Level Overview
@@ -61,7 +61,7 @@ graph TD
 
 ## Studio Concept Mindmap
 
-![Studio Concept Mindmap](./images/mindmap.png)
+![Studio Concept Mindmap](../images/mindmap.png)
 
 ---
 

@@ -9,7 +9,7 @@ Key Concepts: Neuro-Strategy to System Architecture transition, I/O Driver remed
 # The Cognitive Layered Stack: A Guide to the Surface, Engine, and Soil
 
 <p align="center">
-  <img src="./images/cognitive-architechture.png" width="600" alt="Cognitive Architecture">
+  <img src="../images/cognitive-architechture.png" width="600" alt="Cognitive Architecture">
 </p>
 
 ## 1. Introduction to the Cognitive Interface Architecture

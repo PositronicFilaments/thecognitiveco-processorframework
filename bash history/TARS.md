@@ -9,7 +9,7 @@ Key Concepts: Variable Calibration, Social Modulation Dials, Optical Interface, 
 # TARS Social Modulation Module: Surface Layer Implementation Report
 
 <p align="center">
-  <img src="./images/Tars.png" width="600" alt="TARS Social Modulation Module"><br>
+  <img src="../images/Tars.png" width="600" alt="TARS Social Modulation Module"><br>
   <em>Image Copyright: <a href="https://www.imdb.com/title/tt0816692/">Interstellar (2014)</a>. Owned by Paramount Pictures, Warner Bros. Entertainment Inc., Legendary Pictures, Syncopy, and Lynda Obst Productions.</em>
 </p>
 
