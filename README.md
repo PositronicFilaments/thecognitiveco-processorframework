@@ -142,11 +142,6 @@ The true value of this architecture lies in its universal protocols, not specifi
   <em>The Cognitive Co-Processor Mind Map</em>
 </p>
 
-<p align="center">
-  <img src="./images/FrameWorkInfoGraph.png" width="600" alt="Framework Info Graph"><br>
-  <em>The Cognitive Co-Processor Info Graph</em>
-</p>
-
 ---
 
 Copyright © 2026 Voxel & The Positronic Filaments Project.  
