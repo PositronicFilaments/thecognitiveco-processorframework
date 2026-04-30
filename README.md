@@ -9,7 +9,7 @@ Key Concepts: Agentic Systems, Xerox PARC Legacy, Perceptual Governor, Hybrid In
 # The Cognitive Co-Processor Blueprint: A Tech-Agnostic Framework for Human-AI Synergy
 
 <p align="center">
-  <img src="./images/thecognitiveco-processorframework.png" width="600" alt="The Cognitive Co-Processor Framework">
+  <img src="./images/FrameWorkMindMap.png" width="600" alt="The Cognitive Co-Processor Framework">
 </p>
 
 ## 1. Introduction: The Evolution of the Digital Partner
