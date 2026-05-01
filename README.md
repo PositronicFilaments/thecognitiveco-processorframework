@@ -145,4 +145,4 @@ The true value of this architecture lies in its universal protocols, not specifi
 ---
 
 Copyright © 2026 Voxel & The Positronic Filaments Project.  
-Licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+Licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
