@@ -101,4 +101,5 @@ The Cognitive Interface operates as a continuous lifecycle, moving data through 
 
 ---
 
+Voxel & The Positronic Filaments Project.  
 Licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
