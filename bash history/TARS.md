@@ -129,5 +129,4 @@ This structural implementation enables "vibe-coding" and multi-agent orchestrati
 
 ---
 
-Copyright © 2026 Voxel & The Positronic Filaments Project.  
 Licensed under the CC0 1.0 Universal (CC0 1.0) Public Domain Dedication.
